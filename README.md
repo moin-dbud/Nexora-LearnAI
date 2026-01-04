@@ -9,6 +9,19 @@ An intelligent study planning platform for college students preparing for exams.
 
 ---
 
+## Team
+
+**Team Name:** Nexora
+
+**Members:**
+- Moin Sheikh (Leader)
+- Ritesh Tihile
+- Shruti Badgujar
+- Mohini Gathe
+- Ananya Gupta
+
+---
+
 ## Hackathon Context
 
 **Track 4: Educational Technology (EdTech)**
