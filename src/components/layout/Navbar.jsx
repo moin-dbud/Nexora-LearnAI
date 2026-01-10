@@ -98,7 +98,7 @@ export default function Navbar() {
             onClick={handleLogin}
             className="px-4 py-2 sm:px-7 sm:py-2 bg-linear-to-r 
                  from-[#1b002f] via-[#2b003f] to-[#5a004f] 
-                 text-white shadow-lg shadow-black/40
+                 text-white cursor-pointer shadow-lg shadow-black/40
                  hover:brightness-110 transition rounded-full
                  font-medium text-sm sm:text-base"
           >
